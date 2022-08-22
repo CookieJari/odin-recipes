@@ -1,3 +1,3 @@
 # odin-recipes
 ## Intro
-This is the introduction. I should introduce the project here, but I do not know what this project is for yet. So ....
+This is the first project in The Odin Project. This is my recipe book / recipe website. Lmao please forgive me this does not have CSS and I cannot even center objects properly.
