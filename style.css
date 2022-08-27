@@ -1,0 +1,39 @@
+body{
+    font-family: Poppins, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;  
+    color: rgb(75, 37, 37);   
+    text-align: center;
+    font-size: 90px ;
+    font-weight: 300;
+}
+.resto{
+    font-size: 120px;
+    font-weight: 300;
+}
+ul, ol{
+    
+    text-align: center;
+    list-style-position: inside; 
+}
+a{
+    color: rgb(37, 44, 75);
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    font-size: 30px; 
+}
+img{
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.ingredients, .steps{
+    text-align: justify;
+}
+
