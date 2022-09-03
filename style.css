@@ -1,7 +1,12 @@
+/*
+*{
+    border: 2px solid red;
+}
+*/
 body{
     font-family: Poppins, sans-serif;
-    margin-left: 30%;
-    margin-right: 30%;
+    width: 720px;
+    margin: 0 auto;
 }
 h1{
     font-family: 'Open Sans', sans-serif;  
@@ -16,8 +21,7 @@ h1{
 }
 ul, ol{
     
-    text-align: center;
-    list-style-position: inside; 
+
 }
 a{
     color: rgb(37, 44, 75);
@@ -32,8 +36,27 @@ img{
     margin-left: auto;
     margin-right: auto;
     align-items: center;
+    border: 3px solid rgb(75, 37, 37);
 }
 .ingredients, .steps{
     text-align: justify;
 }
 
+.one{
+    background-color: aquamarine;
+    border: 5px solid #471818;
+    padding: 10px;
+    margin: 50px auto;
+    height: 50px;
+    width: 50px;
+    text-align: center; 
+}
+.two{
+    background-color: aquamarine;
+    border: 5px solid #471818;
+    padding: 10px;
+    margin: 70px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
